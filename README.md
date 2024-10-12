@@ -17,6 +17,13 @@ SEO Ascend is a comprehensive roadmap and toolkit designed to elevate your websi
    cd SEO-Ascend
 Usage
 Detailed usage examples will be provided soon!
+## AI-Powered Trend Prediction
+SEO Ascend now includes an AI-powered trend prediction model to help you stay ahead of the curve with cutting-edge insights.
+
+### Usage
+1. Add your search data.
+2. Run the trend prediction model.
+3. Leverage insights to optimize your content strategy.
 
 Contributing
 Feel free to fork this repository and submit pull requests. We welcome all contributions.
