@@ -23,22 +23,4 @@ Feel free to fork this repository and submit pull requests. We welcome all contr
 
 License
 This project is licensed under the MIT License.
-### next Step : Populate `setup.py`
 
-```python
-from setuptools import setup, find_packages
-
-setup(
-    name="SEOAscend",
-    version="0.1.0",
-    packages=find_packages(where='src'),
-    package_dir={'': 'src'},
-    install_requires=[
-        # Add your dependencies here
-    ],
-    entry_points={
-        'console_scripts': [
-            'seoascend=src.main:main',
-        ],
-    },
-)
