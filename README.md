@@ -15,7 +15,14 @@ SEO Ascend is a comprehensive roadmap and toolkit designed to elevate your websi
    ```bash
    git clone https://github.com/akaday/SEO-Ascend.git
    cd SEO-Ascend
+Usage
+Detailed usage examples will be provided soon!
 
+Contributing
+Feel free to fork this repository and submit pull requests. We welcome all contributions.
+
+License
+This project is licensed under the MIT License.
 ### next Step : Populate `setup.py`
 
 ```python
