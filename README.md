@@ -16,7 +16,7 @@ SEO Ascend is a comprehensive roadmap and toolkit designed to elevate your websi
    git clone https://github.com/akaday/SEO-Ascend.git
    cd SEO-Ascend
 
-### Step 3: Populate `setup.py`
+### next Step : Populate `setup.py`
 
 ```python
 from setuptools import setup, find_packages
